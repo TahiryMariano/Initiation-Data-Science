@@ -47,7 +47,7 @@ mall_customer_segmentation_project/
 git clone https://github.com/ton-utilisateur/mall_customer_segmentation_project.git
 cd mall_customer_segmentation_project
 
-## Créer un environnement virtuel
+### 2. Créer un environnement virtuel
 python -m venv env
 
 ## Activer l’environnement virtuel
@@ -72,3 +72,6 @@ code .
 - Sélectionner le kernel Python correspondant à l’environnement virtuel env.
 
 - Exécuter les cellules pas à pas.
+
+
+---
