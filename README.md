@@ -46,32 +46,37 @@ mall_customer_segmentation_project/
 ```bash
 git clone https://github.com/ton-utilisateur/mall_customer_segmentation_project.git
 cd mall_customer_segmentation_project
+```
 
 ### 2. Créer un environnement virtuel
+```bash
 python -m venv env
+```
 
-## Activer l’environnement virtuel
+### 3. Activer l’environnement virtuel
 ### Sous Windows :
+```bash
 env\Scripts\activate
+```
 
 ### Sous Linux/macOS :
+```bash
 source env/bin/activate
+```
 
 ##  Installer les dépendances
+```bash
 pip install -r requirements.txt
+```
 
-
-##🚀 Lancer les notebooks avec VS Code
+## 🚀 Lancer les notebooks avec VS Code
 ### Ouvrir le projet dans VS Code :
+```bash
 code .
+```
 
-- Installer l’extension Jupyter si ce n’est pas encore fait.
+1. Installer l’extension Jupyter si ce n’est pas encore fait.
+2. Ouvrir un des fichiers dans notebooks/clustering/ ou notebooks/regression/.
+3. Sélectionner le kernel Python correspondant à l’environnement virtuel env.
+4. Exécuter les cellules pas à pas.
 
-- Ouvrir un des fichiers dans notebooks/clustering/ ou notebooks/regression/.
-
-- Sélectionner le kernel Python correspondant à l’environnement virtuel env.
-
-- Exécuter les cellules pas à pas.
-
-
----
