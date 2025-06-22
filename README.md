@@ -9,7 +9,7 @@ Ce projet de Data Science a pour objectif d'explorer deux types d'analyses :
 
 ## 📁 Structure du projet
 
-mall_customer_segmentation_project/
+INITIATION-DATA-SCIENCE/
 │
 ├── data/
 │ ├── mall/ # Données pour le clustering
@@ -44,8 +44,7 @@ mall_customer_segmentation_project/
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/ton-utilisateur/mall_customer_segmentation_project.git
-cd mall_customer_segmentation_project
+git clone git@github.com:TahiryMariano/Initiation-Data-Science.git
 ```
 
 ### 2. Créer un environnement virtuel
